@@ -515,3 +515,4 @@ for level in range(10, 0, -1):
    print("Contribution of Each Factor to Explained Gender Gap:")
    print(explained_gender_breakdown.sort_values(ascending=False))
    print("=" * 50)
+
