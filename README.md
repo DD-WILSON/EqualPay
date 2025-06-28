@@ -66,25 +66,6 @@ df = pd.concat([df, ohetransform], axis=1). drop(columns = ['DG Ship'])
 df.drop(columns=['DG Ship_nan'], errors='ignore', inplace=True)
 # Numerising 'Gender', Female as 1, Male as 0
 df['Gender'] =df['Gender'].map({'Female': 0, 'Male': 1})
-#Defining Premium and Non Premium Reference Points, 1 as Premium, 0 as non Premium
-mapping = {
-    'Corporate (Other)': 1,
-    'Central Banking': 0,
-    'Legal': 1,
-    'External Premium Technology': 1,
-    'Corporate': 0,
-    'Maintenance': 0,
-    'Research': 1,
-    'Technology': 0,
-    'Actuaries': 1,
-    'External Premium Central Banking': 1,
-    'Security': 0,
-    'Industrial Placement': 0,
-    'SENIOR ADVISOR': 1,
-    'SPECIAL ADVISOR': 1,
-    'DEPUTY GOVERNOR': 1,
-    'GOVERNOR': 1
-}
 
 # Use the .map() function to replace old reference point values with new numerised values
 df['Reference Point'] = df['Reference Point'].map(mapping)
