@@ -1,0 +1,101 @@
+Employee ID,Location,Time in Role,Job Title,Division,Function,Level or Grade,Manager Responsibilities,Disability Status,Changed role in last 12 months?,Year of Birth,Performance Rating - Last Annual Review,Salary range min,Salary range max,Gender,Ethnicity,Tenure,Most Recent Start Date,Working hours,Contractual Annual Salary
+965028,UK,7.88,Finance Analyst,Operations,Payroll,Scale D,N,No,No,1990,Below Expectations,33200,41742,Non-binary,Not Ethnic Minority,12.51,2014-12-02,40.0,43432.4
+708403,Canada,0.81,Facilities Supervisor,Customer Service,Customer Support,Scale A,N,Yes,New Joiner,2000,Below Expectations,34568,40294,Male,Ethnic Minority,4.37,2014-05-10,40.0,59980.06
+768582,Germany,8.53,HR Manager,Facilities,Legal Counsel,Scale B,N,Yes,Yes,1996,Below Expectations,33612,42832,Male,Not Ethnic Minority,1.12,2023-04-08,37.5,45257.95
+174308,Germany,7.68,IT Support Technician,Marketing,Vendor Management,Scale J,Y,Yes,New Joiner,1991,TSTR,30366,38448,Non-binary,Ethnic Minority,1.78,2015-09-18,40.0,49706.73
+185826,Canada,3.28,Operations Coordinator,Human Resources,Software Development,Scale B,Y,Unknown,New Joiner,1979,Below Expectations,24062,32966,Non-binary,Not Ethnic Minority,0.17,2023-07-22,37.5,48697.92
+874925,Canada,6.09,Payroll Officer,Operations,Legal Counsel,Scale B,N,Unknown,No,1958,Good,32649,39289,Non-binary,Not Ethnic Minority,12.02,2017-01-27,35.0,58806.58
+133960,US,1.55,Facilities Supervisor,Procurement,Accounting,Scale B,N,Unknown,Yes,1955,Below Expectations,25721,30404,Female,Not Ethnic Minority,14.63,2012-03-26,40.0,49546.58
+632942,Germany,3.44,Digital Marketing Manager,Legal,Vendor Management,Scale C,N,No,New Joiner,1977,Below Expectations,27492,31392,Non-binary,Not Ethnic Minority,10.49,2016-01-20,35.0,50469.76
+623832,UK,0.26,Sales Representative,Legal,Payroll,Scale D,Y,Unknown,No,1993,Below Expectations,27900,32449,Non-binary,Not Ethnic Minority,7.38,2015-10-24,40.0,34358.03
+718006,UK,3.47,HR Manager,Customer Service,Vendor Management,Scale C,Y,Unknown,No,1991,TSTR,22959,29311,Male,Not Ethnic Minority,12.32,2016-03-01,37.5,38411.27
+331630,UK,3.64,Customer Service Advisor,Product Development,Risk Management,Scale F,Y,Unknown,No,1987,Good,25239,34802,Male,Not Ethnic Minority,2.51,2011-10-29,40.0,30032.31
+622490,UK,6.92,HR Manager,Customer Service,Infrastructure,Scale A,Y,No,Yes,1999,Below Expectations,25165,33500,Male,Ethnic Minority,13.68,2013-07-22,40.0,41980.41
+589287,US,7.73,Legal Advisor,Finance,Payroll,Scale J,N,Yes,New Joiner,1957,Good,20422,27370,Male,Not Ethnic Minority,10.48,2021-11-16,37.5,53582.24
+852593,US,6.67,Facilities Supervisor,Product Development,Data Analysis,Scale E,Y,Yes,No,1966,Below Expectations,30649,35133,Non-binary,Ethnic Minority,9.33,2017-05-30,35.0,56237.8
+326159,UK,9.76,Customer Service Advisor,Sales,Employee Relations,Scale J,Y,Yes,New Joiner,1972,TSTR,23122,31760,Male,Not Ethnic Minority,8.63,2017-04-04,40.0,31756.95
+319980,Canada,6.57,Compliance Analyst,Marketing,Product Management,Scale J,N,Unknown,Yes,1959,TSTR,20460,26367,Male,Not Ethnic Minority,4.5,2010-12-12,37.5,30682.6
+621857,Germany,7.81,Payroll Officer,Risk & Compliance,Customer Support,Scale A,N,No,No,1994,Outstanding,30035,38439,Non-binary,Ethnic Minority,1.65,2016-08-03,35.0,28902.55
+318175,US,2.42,Accountant,Facilities,Infrastructure,Scale J,N,No,New Joiner,1969,TSTR,30932,38559,Male,Not Ethnic Minority,8.52,2019-07-16,37.5,51981.3
+995489,Canada,6.72,Operations Coordinator,Marketing,Risk Management,Scale A,N,No,Yes,1967,Outstanding,32818,41276,Male,Not Ethnic Minority,6.61,2013-05-30,35.0,35237.12
+943094,UK,5.54,Payroll Officer,Facilities,Payroll,Scale D,Y,Yes,No,1967,TSTR,20018,23893,Male,Ethnic Minority,13.62,2016-02-25,37.5,22102.46
+157039,US,8.12,Legal Advisor,Human Resources,Risk Management,Scale E,Y,Yes,Yes,2001,Outstanding,26101,35883,Female,Ethnic Minority,6.77,2023-05-05,40.0,32156.67
+193725,US,7.69,Legal Advisor,Risk & Compliance,Employee Relations,Scale A,Y,No,New Joiner,1961,Outstanding,34947,40573,Male,Not Ethnic Minority,0.36,2011-03-18,37.5,58176.71
+235678,Germany,5.99,HR Manager,Risk & Compliance,Customer Support,Scale E,N,Unknown,Yes,2001,Outstanding,33205,40117,Female,Not Ethnic Minority,14.24,2015-05-18,35.0,31112.38
+161696,Canada,2.41,Recruitment Consultant,Customer Service,Customer Support,Scale J,Y,Unknown,Yes,1961,Outstanding,30359,38888,Female,Ethnic Minority,14.57,2016-03-12,40.0,50610.22
+971860,UK,1.96,Marketing Executive,Finance,Accounting,Scale D,Y,Unknown,No,1956,Below Expectations,20366,25528,Male,Not Ethnic Minority,11.97,2022-11-02,40.0,53818.87
+652373,US,4.07,Procurement Specialist,Procurement,Software Development,Scale B,Y,No,Yes,1974,Below Expectations,21145,27852,Non-binary,Ethnic Minority,10.75,2010-09-04,37.5,51290.36
+187524,Canada,1.14,Facilities Supervisor,Procurement,Vendor Management,Scale D,Y,Yes,No,1996,Outstanding,21556,25021,Non-binary,Not Ethnic Minority,9.63,2020-07-18,40.0,56025.54
+532417,Canada,1.42,Compliance Analyst,Product Development,Employee Relations,Scale A,Y,Unknown,No,1982,Outstanding,24997,28896,Non-binary,Ethnic Minority,0.4,2023-02-04,35.0,43174.49
+783881,US,9.16,Customer Service Advisor,Legal,Legal Counsel,Scale E,N,Unknown,No,2003,Good,32256,37206,Female,Not Ethnic Minority,1.46,2016-01-31,37.5,44095.02
+171605,Germany,5.35,Procurement Specialist,Marketing,Vendor Management,Scale F,Y,No,No,1984,Outstanding,27372,32966,Non-binary,Ethnic Minority,12.83,2013-05-29,37.5,43121.96
+751947,UK,4.24,Procurement Specialist,Information Technology,Accounting,Scale F,Y,Unknown,New Joiner,1992,Outstanding,27730,36724,Male,Ethnic Minority,6.19,2016-03-27,35.0,29555.0
+626965,UK,3.47,Marketing Executive,Customer Service,Data Analysis,Scale D,N,Unknown,No,1997,Below Expectations,28129,33593,Female,Ethnic Minority,12.06,2012-11-28,35.0,38180.76
+181441,UK,3.22,IT Support Technician,Procurement,Legal Counsel,Scale D,N,No,New Joiner,1967,TSTR,31163,38609,Male,Ethnic Minority,1.86,2022-12-21,37.5,34279.49
+896536,Canada,4.44,Customer Service Advisor,Finance,Legal Counsel,Scale D,Y,No,New Joiner,1961,TSTR,28013,31833,Male,Not Ethnic Minority,4.11,2023-11-21,35.0,22180.21
+538356,US,3.76,Product Owner,Customer Service,Accounting,Scale E,N,No,New Joiner,1980,Below Expectations,31170,40873,Non-binary,Ethnic Minority,9.85,2020-06-19,35.0,45648.55
+721442,US,3.61,Finance Analyst,Information Technology,Accounting,Scale C,Y,No,Yes,1963,Good,21439,28947,Female,Not Ethnic Minority,4.91,2011-06-24,37.5,56420.36
+172293,Canada,6.86,Facilities Supervisor,Facilities,Product Management,Scale D,Y,Unknown,Yes,1996,Below Expectations,23458,27180,Female,Ethnic Minority,11.2,2017-11-04,40.0,52856.59
+430975,UK,2.37,Sales Representative,Procurement,Software Development,Scale C,N,Unknown,New Joiner,1987,Outstanding,34937,39180,Non-binary,Ethnic Minority,12.48,2025-04-09,40.0,54721.36
+619619,Canada,2.9,Payroll Officer,Information Technology,Accounting,Scale J,Y,Unknown,No,1989,TSTR,25485,34629,Female,Ethnic Minority,6.28,2021-06-25,35.0,37960.44
+312076,Canada,0.91,Payroll Officer,Facilities,Vendor Management,Scale E,Y,Yes,New Joiner,1965,Good,31462,40141,Male,Not Ethnic Minority,4.84,2013-09-07,35.0,55159.74
+320726,UK,8.45,Finance Analyst,Operations,Infrastructure,Scale J,Y,No,Yes,1978,TSTR,31200,39157,Male,Ethnic Minority,13.12,2011-06-28,35.0,47852.06
+471832,UK,3.57,Finance Analyst,Marketing,Vendor Management,Scale C,N,No,Yes,1982,Outstanding,33292,37461,Non-binary,Ethnic Minority,8.67,2014-12-22,35.0,36609.23
+353664,UK,7.82,Product Owner,Product Development,Recruitment,Scale B,Y,Unknown,Yes,1965,Outstanding,23922,32569,Female,Not Ethnic Minority,14.27,2011-05-14,35.0,31470.1
+208577,Germany,5.35,Accountant,Marketing,Infrastructure,Scale A,N,No,New Joiner,1969,Good,21715,27586,Non-binary,Ethnic Minority,13.52,2012-09-23,40.0,40243.79
+477349,US,9.4,Data Scientist,Human Resources,Vendor Management,Scale C,N,No,No,2003,Outstanding,21600,30131,Male,Not Ethnic Minority,10.22,2013-08-17,37.5,59633.86
+878701,Canada,5.23,Data Scientist,Information Technology,Software Development,Scale E,Y,Unknown,New Joiner,1978,TSTR,33850,42798,Female,Ethnic Minority,12.94,2014-10-27,35.0,23161.82
+392202,Germany,0.6,Data Scientist,Operations,Recruitment,Scale J,Y,Yes,New Joiner,1998,TSTR,27155,30438,Non-binary,Ethnic Minority,6.49,2017-01-28,35.0,25735.87
+107616,UK,8.09,Operations Coordinator,Marketing,Vendor Management,Scale D,Y,No,No,2002,Below Expectations,21298,28531,Female,Not Ethnic Minority,1.88,2015-08-03,40.0,49525.31
+767660,UK,9.38,Recruitment Consultant,Customer Service,Vendor Management,Scale C,Y,Unknown,Yes,1988,Below Expectations,33207,37842,Male,Ethnic Minority,1.36,2019-08-22,40.0,26645.13
+301265,UK,9.33,Data Scientist,Procurement,Data Analysis,Scale J,N,Unknown,Yes,1991,TSTR,20066,24471,Female,Ethnic Minority,4.81,2015-09-23,35.0,52966.58
+162202,Canada,2.84,Legal Advisor,Facilities,Recruitment,Scale B,N,Yes,No,1968,Good,31528,40889,Non-binary,Ethnic Minority,14.4,2023-09-19,37.5,34881.17
+123968,US,3.5,Product Owner,Marketing,Legal Counsel,Scale F,N,No,New Joiner,1998,Good,21185,24884,Female,Not Ethnic Minority,3.6,2012-03-06,37.5,47436.21
+342602,Germany,2.24,Data Scientist,Finance,Legal Counsel,Scale J,N,No,Yes,1985,Outstanding,31497,35233,Female,Ethnic Minority,14.75,2024-01-26,35.0,38845.06
+458923,Canada,6.91,Customer Service Advisor,Procurement,Data Analysis,Scale A,N,Unknown,No,1957,Outstanding,21925,29890,Female,Ethnic Minority,6.58,2010-11-20,40.0,55749.29
+978640,UK,7.96,HR Manager,Risk & Compliance,Software Development,Scale B,N,Unknown,No,1956,Outstanding,23157,29340,Non-binary,Ethnic Minority,2.96,2013-07-10,37.5,58921.82
+641146,US,5.4,Customer Service Advisor,Sales,Recruitment,Scale E,N,Yes,New Joiner,1995,Outstanding,22755,30560,Female,Ethnic Minority,7.58,2013-07-22,40.0,29390.21
+451672,UK,5.14,Marketing Executive,Product Development,Software Development,Scale E,Y,Unknown,No,1994,TSTR,21839,30880,Male,Not Ethnic Minority,2.42,2018-01-07,40.0,46142.78
+358344,UK,7.08,Accountant,Customer Service,Product Management,Scale D,N,Yes,New Joiner,1997,Below Expectations,20055,26895,Non-binary,Ethnic Minority,2.68,2017-06-13,37.5,36601.58
+866446,UK,1.64,Payroll Officer,Sales,Infrastructure,Scale F,Y,No,New Joiner,1971,Below Expectations,31172,40133,Female,Not Ethnic Minority,1.08,2023-09-03,37.5,36031.77
+605541,US,7.16,HR Manager,Legal,Employee Relations,Scale J,N,Yes,No,1974,Good,32008,38881,Female,Ethnic Minority,11.56,2019-04-18,35.0,50360.03
+593733,UK,6.58,Sales Representative,Information Technology,Vendor Management,Scale C,Y,No,No,1990,Good,24740,33478,Male,Not Ethnic Minority,10.17,2025-04-19,37.5,57746.75
+145745,US,4.87,Compliance Analyst,Information Technology,Employee Relations,Scale J,N,Unknown,No,1985,Outstanding,24212,33044,Male,Ethnic Minority,10.97,2020-06-17,35.0,45219.96
+254782,Germany,8.64,Data Scientist,Risk & Compliance,Accounting,Scale F,N,Unknown,No,1993,Outstanding,34670,38033,Male,Not Ethnic Minority,6.3,2011-01-04,40.0,36858.94
+100726,US,9.37,Digital Marketing Manager,Facilities,Vendor Management,Scale C,N,No,New Joiner,1984,Good,34217,41319,Non-binary,Ethnic Minority,10.76,2014-08-02,35.0,25023.21
+587504,Germany,9.37,Software Engineer,Sales,Customer Support,Scale B,N,Yes,No,2001,TSTR,31546,35292,Male,Ethnic Minority,1.11,2018-05-14,37.5,32087.11
+908586,Canada,9.3,Accountant,Facilities,Payroll,Scale A,N,Unknown,Yes,1985,Good,22986,31162,Female,Not Ethnic Minority,5.26,2024-10-31,35.0,45495.04
+501475,Germany,5.04,Facilities Supervisor,Operations,Payroll,Scale J,Y,Unknown,No,1961,Good,33901,41069,Male,Ethnic Minority,6.94,2014-09-17,40.0,27928.75
+266186,Germany,0.95,Customer Service Advisor,Product Development,Accounting,Scale J,N,Yes,No,1975,Below Expectations,22559,31232,Non-binary,Not Ethnic Minority,1.49,2020-10-03,35.0,27592.52
+663176,US,5.73,Marketing Executive,Operations,Data Analysis,Scale D,Y,No,New Joiner,2000,Below Expectations,25743,31148,Male,Ethnic Minority,1.5,2017-04-29,35.0,56247.89
+817466,Germany,9.67,Sales Representative,Product Development,Payroll,Scale E,N,Unknown,Yes,1976,TSTR,30141,37244,Male,Ethnic Minority,11.5,2012-12-16,35.0,58930.36
+742165,Germany,8.92,Software Engineer,Risk & Compliance,Recruitment,Scale B,Y,No,New Joiner,1984,Good,26226,35448,Female,Ethnic Minority,5.85,2022-02-11,40.0,49275.05
+620364,UK,0.98,Recruitment Consultant,Information Technology,Product Management,Scale F,N,No,No,1992,TSTR,34749,42731,Female,Ethnic Minority,6.12,2024-09-02,35.0,41312.03
+238714,US,8.5,Software Engineer,Risk & Compliance,Employee Relations,Scale D,N,Yes,Yes,1972,TSTR,29286,32863,Non-binary,Ethnic Minority,2.92,2022-05-05,37.5,47026.42
+723517,Canada,6.63,Legal Advisor,Facilities,Recruitment,Scale B,Y,Unknown,New Joiner,1959,Outstanding,29688,33848,Female,Not Ethnic Minority,5.82,2020-07-24,40.0,27415.12
+801001,Germany,3.26,Compliance Analyst,Human Resources,Customer Support,Scale D,Y,No,No,1970,Below Expectations,23752,31644,Non-binary,Ethnic Minority,5.07,2025-06-18,35.0,51560.46
+476597,US,9.05,Compliance Analyst,Sales,Digital Marketing,Scale D,N,Yes,No,1984,Below Expectations,20551,30486,Male,Not Ethnic Minority,7.86,2011-06-01,40.0,43790.87
+831100,US,1.65,Customer Service Advisor,Human Resources,Legal Counsel,Scale J,N,Yes,No,1973,Good,34451,41747,Female,Not Ethnic Minority,3.29,2015-01-18,35.0,54488.18
+445405,Canada,3.83,Operations Coordinator,Product Development,Employee Relations,Scale F,Y,No,No,1963,Below Expectations,20469,29507,Male,Ethnic Minority,9.82,2015-11-06,40.0,50449.97
+239375,Canada,0.86,Software Engineer,Legal,Legal Counsel,Scale F,Y,No,New Joiner,1967,Good,34097,41217,Male,Not Ethnic Minority,3.92,2014-08-16,35.0,22451.32
+209327,Germany,6.52,Legal Advisor,Procurement,Software Development,Scale B,Y,No,New Joiner,1981,Below Expectations,28433,34763,Non-binary,Not Ethnic Minority,11.22,2011-03-29,35.0,58396.2
+434336,UK,2.18,Recruitment Consultant,Sales,Vendor Management,Scale C,N,Yes,No,1972,Below Expectations,34237,41496,Female,Not Ethnic Minority,0.44,2011-04-25,40.0,40940.25
+561650,Canada,0.51,Accountant,Facilities,Data Analysis,Scale C,Y,Yes,Yes,1995,Outstanding,30124,34763,Male,Not Ethnic Minority,2.17,2018-06-10,37.5,34106.22
+677272,UK,1.25,Accountant,Sales,Customer Support,Scale C,N,No,New Joiner,1990,Good,23992,31999,Female,Ethnic Minority,7.98,2023-08-16,40.0,30670.44
+639170,US,3.64,IT Support Technician,Human Resources,Accounting,Scale J,Y,Yes,No,1963,Good,31578,38551,Non-binary,Ethnic Minority,1.61,2013-08-09,37.5,34239.69
+316798,UK,6.05,Software Engineer,Sales,Employee Relations,Scale B,N,No,No,1993,Good,31907,35519,Female,Not Ethnic Minority,13.91,2021-02-18,37.5,25382.35
+611197,UK,1.13,Recruitment Consultant,Procurement,Employee Relations,Scale J,Y,No,Yes,1984,Below Expectations,21334,27587,Non-binary,Ethnic Minority,6.86,2018-04-15,35.0,47640.62
+397079,Germany,8.4,Product Owner,Facilities,Recruitment,Scale D,N,Unknown,No,1998,Good,26098,34529,Male,Ethnic Minority,14.21,2024-08-08,37.5,31298.13
+191739,US,5.65,Sales Representative,Facilities,Vendor Management,Scale A,N,Unknown,New Joiner,1973,TSTR,26951,35266,Male,Ethnic Minority,11.12,2014-08-19,40.0,54645.92
+804646,UK,1.91,IT Support Technician,Facilities,Recruitment,Scale A,N,Yes,Yes,2003,Good,31367,39622,Non-binary,Ethnic Minority,12.82,2023-03-08,35.0,56517.56
+904936,Germany,1.18,Data Scientist,Facilities,Infrastructure,Scale D,N,Unknown,No,1963,Good,25931,31923,Female,Ethnic Minority,5.05,2021-02-22,35.0,28536.25
+556346,Canada,1.63,Marketing Executive,Human Resources,Legal Counsel,Scale J,Y,Yes,No,1988,Good,25726,31002,Male,Not Ethnic Minority,11.29,2012-10-21,35.0,34357.04
+954749,Canada,6.48,IT Support Technician,Customer Service,Product Management,Scale A,N,No,No,1987,Good,32622,40743,Female,Ethnic Minority,2.88,2011-08-18,35.0,38385.74
+547268,Canada,9.78,Accountant,Legal,Recruitment,Scale E,N,Yes,No,1976,Outstanding,22912,31142,Male,Ethnic Minority,2.14,2017-03-24,35.0,38704.01
+602911,Canada,3.3,Accountant,Sales,Digital Marketing,Scale E,Y,No,New Joiner,1986,Outstanding,27115,33677,Male,Ethnic Minority,3.81,2020-03-31,35.0,26853.62
+654644,Germany,6.63,Customer Service Advisor,Product Development,Accounting,Scale D,Y,Unknown,Yes,2003,Good,23818,28705,Non-binary,Not Ethnic Minority,9.4,2013-10-31,37.5,24663.78
+145564,Germany,9.43,Payroll Officer,Facilities,Risk Management,Scale B,N,No,No,2002,Good,26622,35433,Male,Ethnic Minority,6.13,2017-06-10,35.0,25835.5
+213725,US,3.32,Sales Representative,Marketing,Risk Management,Scale F,Y,No,Yes,1990,Good,34130,43589,Non-binary,Ethnic Minority,5.16,2014-01-14,35.0,53090.82
+142108,Canada,6.68,Customer Service Advisor,Marketing,Recruitment,Scale D,Y,No,No,1987,Below Expectations,34672,43587,Female,Not Ethnic Minority,6.77,2019-12-22,40.0,37709.96
+377039,UK,6.33,Software Engineer,Risk & Compliance,Risk Management,Scale D,N,Unknown,No,1999,Good,25603,34485,Female,Not Ethnic Minority,2.64,2013-03-11,40.0,23199.56
+531744,US,8.87,Data Scientist,Facilities,Data Analysis,Scale F,N,Unknown,Yes,1995,Good,26091,29502,Non-binary,Ethnic Minority,12.68,2011-09-27,40.0,29689.95

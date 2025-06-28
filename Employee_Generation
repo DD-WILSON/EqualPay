@@ -1,0 +1,73 @@
+import pandas as pd
+import random
+from faker import Faker
+
+fake = Faker()
+
+# Number of random records
+num_records = 100
+
+# Define possible values for certain fields
+locations = ['UK', 'US', 'Canada', 'Germany']
+
+divisions = [
+    'Finance', 'Human Resources', 'Information Technology', 'Operations',
+    'Marketing', 'Sales', 'Legal', 'Customer Service', 'Procurement',
+    'Facilities', 'Product Development', 'Risk & Compliance'
+]
+
+functions = [
+    'Accounting', 'Payroll', 'Employee Relations', 'Recruitment',
+    'Software Development', 'Infrastructure', 'Customer Support',
+    'Vendor Management', 'Digital Marketing', 'Data Analysis',
+    'Legal Counsel', 'Product Management', 'Risk Management'
+]
+
+job_titles = [
+    'Finance Analyst', 'HR Manager', 'Software Engineer', 'Accountant',
+    'Customer Service Advisor', 'Procurement Specialist', 'Marketing Executive',
+    'Operations Coordinator', 'Legal Advisor', 'Sales Representative',
+    'Data Scientist', 'IT Support Technician', 'Recruitment Consultant',
+    'Payroll Officer', 'Product Owner', 'Facilities Supervisor',
+    'Compliance Analyst', 'Digital Marketing Manager'
+]
+
+levels = ['Scale A', 'Scale B', 'Scale C', 'Scale D', 'Scale E', 'Scale F', 'Scale J']
+manager_responsibilities = ['Y', 'N']
+disability_status = ['Yes', 'No', 'Unknown']
+changed_role = ['Yes', 'No', 'New Joiner']
+performance_ratings = ['Outstanding', 'Good', 'TSTR', 'Below Expectations']
+genders = ['Male', 'Female', 'Non-binary']
+ethnicities = ['Not Ethnic Minority', 'Ethnic Minority']
+
+# Generate random data
+data = []
+for _ in range(num_records):
+    salary_min = random.randint(20000, 35000)
+    salary_max = salary_min + random.randint(3000, 10000)
+    data.append({
+        'Employee ID': fake.random_number(digits=6, fix_len=True),
+        'Location': random.choice(locations),
+        'Time in Role': round(random.uniform(0.1, 10.0), 2),
+        'Job Title': random.choice(job_titles),
+        'Division': random.choice(divisions),
+        'Function': random.choice(functions),
+        'Level or Grade': random.choice(levels),
+        'Manager Responsibilities': random.choice(manager_responsibilities),
+        'Disability Status': random.choice(disability_status),
+        'Changed role in last 12 months?': random.choice(changed_role),
+        'Year of Birth': random.randint(1955, 2003),
+        'Performance Rating - Last Annual Review': random.choice(performance_ratings),
+        'Salary range min': salary_min,
+        'Salary range max': salary_max,
+        'Gender': random.choice(genders),
+        'Ethnicity': random.choice(ethnicities),
+        'Tenure': round(random.uniform(0.1, 15.0), 2),
+        'Most Recent Start Date': fake.date_between(start_date='-15y', end_date='today'),
+        'Working hours': random.choice([35, 37.5, 40]),
+        'Contractual Annual Salary': round(random.uniform(22000, 60000), 2)
+    })
+
+# Convert to DataFrame and export to CSV
+df = pd.DataFrame(data)
+df.to_csv('random_employees.csv', index=False)
